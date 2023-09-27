@@ -23,13 +23,14 @@ tkinter python
 Contribution
 Only Belongs to the Author
 
-Author
-Pranta Sarker
+Author 
+
+Bhoomika payal
 Department of Computer Science and Engineering
-North East University Bangladesh
-Sylhet, Bangladesh
+priyadarshini institute
 
 Acknowledgement
+
 Stackoverflow
 Related blogs
 etc
